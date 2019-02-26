@@ -25,6 +25,7 @@
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "core-js": "^2.5.4",
+    "es6-promise": "^4.2.6",
     "jest-expect": "0.0.1",
     "protractor-cucumber-framework": "^6.1.1",
     "rxjs": "~6.3.3",
